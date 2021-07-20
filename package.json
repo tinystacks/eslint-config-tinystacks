@@ -1,7 +1,6 @@
 {
     "name": "@tinystacks/eslint-tinystacks-config",
     "version": "0.1.0",
-    "private": true,
     "scripts": {
         "lint": "eslint ."
     },
