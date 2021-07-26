@@ -4,7 +4,7 @@
   "scripts": {
     "lint": "eslint ."
   },
-  "devDependencies": {
+  "dependencies": {
     "@babel/core": "^7.2.0",
     "@babel/eslint-parser": "^7.12.13",
     "eslint": "^7.31.0",
