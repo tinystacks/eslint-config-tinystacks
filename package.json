@@ -1,5 +1,5 @@
 {
-  "name": "eslint-tinystacks-config",
+  "name": "eslint-config-tinystacks",
   "version": "0.1.0",
   "scripts": {
     "lint": "eslint ."
